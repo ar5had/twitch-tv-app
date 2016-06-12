@@ -1,2 +1,2 @@
 # twitch-tv-app
-This is a webapp that displays current twitch gamers status, availability and other informations.
+Twitch-tv app accesses the twitch-tv database and displays the current streaming user and their current stream. It also displays the users that are not online and other informations which tells account status of users.
